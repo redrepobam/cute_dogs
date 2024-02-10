@@ -1,4 +1,4 @@
-def bark:
+def bark():
     print('woof woof i just barked in python ...  !')
 
 
